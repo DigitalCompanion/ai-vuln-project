@@ -1,0 +1,14 @@
+
+List of useful links for further research and planning.
+
+Last updated:
+2020-10-18
+
+The WASC Threat Classification v2.0
+http://projects.webappsec.org/w/page/13246978/Threat%20Classification
+
+Portswigger
+https://portswigger.net/web-security
+
+
+
